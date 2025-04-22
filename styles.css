@@ -55,8 +55,10 @@ html{
     text-align: center;
     gap: 1rem;
     max-width: 1000px;
-    margin: 0 auto;
+    margin: 1em auto;
 }
+
+
 
 .hero__heading{
     font-size: 3em;
@@ -67,6 +69,7 @@ html{
     font-weight: 300;
     color: #333;
     font-size: 1.1rem;
+    text-align: justify;
 }
 
 .hero__highlight{
